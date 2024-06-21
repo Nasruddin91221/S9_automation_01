@@ -1,0 +1,2112 @@
+[INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC
+mini oil tank 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC
+mini oil tank 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC
+mini oil tank 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh
+sos
+Rasoo 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC
+mini oil tank 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh
+sos
+Rasoo 
+ [INFO] [TruckPages] [saveTruck] navigated to add truck page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC
+mini oil tank 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh
+sos
+Rasoo 
+ [INFO] [TruckPages] [saveTruck] navigated to add truck page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC
+mini oil tank 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC
+mini oil tank 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh
+sos
+Rasoo 
+ [INFO] [TruckPages] [saveTruck] navigated to add truck page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [TruckPages] [addTrucks] navigated to add truck page Trucks Add 
+ [INFO] [TruckPages] [addTrucksCategory] truck categry opensFullTruck
+Half Truck
+Open Truck
+Closed TRuck
+lowbeded truck
+highbeded truck
+mini truck
+Tanker truck
+Fuel truck
+logging truck
+Dump truck
+Military truck
+tanker truck
+tanker truck fuel and any other drug related liquids
+material transport truck
+NewNewTruck
+Fullloadtruck
+open
+Loadtruck
+Mini open truck
+halftruck
+fulland truck
+AC truck
+mini AC
+mini oil tank 
+ [INFO] [TruckPages] [addTrucksType] truck type opens38 Tons
+1500 Kgs 
+ [INFO] [TruckPages] [addTrucksOwner] truck owner opensNasruddin
+Shaik ASHRAF
+Naeem
+Shabazz
+Sabeer
+Rabbani
+Muhammed
+Ramesh
+sos
+Rasoo 
+ [INFO] [TruckPages] [saveTruck] navigated to add truck page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [saveDriver] navigated to add driver page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [saveDriver] navigated to add driver page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [saveDriver] navigated to add driver page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [saveDriver] navigated to add driver page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [addTrucksType] truck type opensSelect truck
+ABC45EFG
+AC
+ABC04EFG
+ABC10EFG
+apsrt123
+spa1234
+DL09QW9002
+TN33
+hgfhgfdd4433546 
+ [INFO] [DriversPages] [saveDriver] navigated to add driver page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [addTrucksType] truck type opensSelect truck
+ABC45EFG
+AC
+ABC04EFG
+ABC10EFG
+apsrt123
+spa1234
+DL09QW9002
+TN33
+hgfhgfdd4433546 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [addMobileNo] code number generated Code: 121979 
+ [INFO] [DriversPages] [addMobileNo] code number generated after trim121979 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [addMobileNo] code number generated Code: 402894 
+ [INFO] [DriversPages] [addMobileNo] code number generated after trim402894 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [addMobileNo] code number generated Code: 167961 
+ [INFO] [DriversPages] [addMobileNo] code number generated after trim167961 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [addMobileNo] code number generated Code: 132156 
+ [INFO] [DriversPages] [addMobileNo] code number generated after trim132156 
+ [INFO] [BaseTest] [setupDriver1]  chrome open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectDrivers] navigated to trucks page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [DriversPages] [addDrivers] navigated to add driver page Driver Profile 
+ [INFO] [DriversPages] [addMobileNo] code number generated Code: 315760 
+ [INFO] [DriversPages] [addMobileNo] code number generated after trim315760 
+ [INFO] [DriversPages] [addTrucksType] truck type opensSelect truck
+ABC45EFG
+AC
+ABC04EFG
+ABC10EFG
+apsrt123
+spa1234
+DL09QW9002
+TN33
+hgfhgfdd4433546 
+ [INFO] [DriversPages] [saveDriver] navigated to add driver page http://staging.s9trucks.com/admin/drivers 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 21 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--556742853/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms. 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2e5c7f0b: 27 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@1b9ea3e3: 109 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@1df98368: 20 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@8ab78bc: 26 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7adbd080: 12 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6d6bc158: 14 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@5dda6f9: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 56 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--74210444/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms. 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2e5c7f0b: 87 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@1b9ea3e3: 161 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@1df98368: 30 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@8ab78bc: 56 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7adbd080: 31 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6d6bc158: 17 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@5dda6f9: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 18 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-521625233/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms. 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4de025bf: 40 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@55e7a35c: 160 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@226f885f: 27 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@16afbd92: 32 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@560513ce: 11 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@10027fc9: 13 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@54afd745: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 21 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1473786815/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@38c2c309: 25 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@479f2dc2: 115 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@dab48d3: 1 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@446c3920: 28 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@36361ddb: 8 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1fba386c: 9 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@7e736350: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 22 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--596981926/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@745c2004: 29 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@2eaef76d: 104 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@2b329bbd: 2 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@8b91134: 28 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@46d567cb: 15 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4efc25fc: 6 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@7ee3d262: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 33 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 8 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1478573113/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruckCategory] navigated to trucks page http://staging.s9trucks.com/admin/truck-category 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4315e9af: 33 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@58ec7116: 114 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@63bde6c2: 1 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@fca387: 21 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3effd4f3: 10 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@eb507b9: 7 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@390877d2: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 28 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1213393078/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 43 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1220379184/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@342726f1: 87 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3730ab42: 163 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@2b917fb0: 43 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@6bf13698: 31 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1eb2d371: 69 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@18ac53e8: 18 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@4ca8dbfa: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 45 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1514235399/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1431267b: 72 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3b95d13c: 105 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ad69f7: 31 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1128620c: 20 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42210be1: 15 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f966719: 18 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@18ac53e8: 1 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 51 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1681844713/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1a480135: 138 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@dab48d3: 209 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@58a2b4c: 1 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@2eaef76d: 32 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@41fed14f: 9 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1fba386c: 15 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@7e736350: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 33 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 9 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1342034813/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1431267b: 182 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3b95d13c: 118 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ad69f7: 15 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1128620c: 20 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42210be1: 16 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f966719: 29 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@18ac53e8: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 41 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1391068134/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1431267b: 100 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3b95d13c: 137 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ad69f7: 45 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1128620c: 45 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42210be1: 17 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f966719: 36 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@18ac53e8: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 30 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 18 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 6 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--538141117/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1431267b: 71 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3b95d13c: 105 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ad69f7: 19 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1128620c: 26 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42210be1: 42 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f966719: 25 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@18ac53e8: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 31 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-91764815/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1431267b: 37 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3b95d13c: 98 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ad69f7: 16 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1128620c: 21 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42210be1: 14 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f966719: 23 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@18ac53e8: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 30 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1549976826/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@129c4d19: 34 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@61b60600: 91 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@245cb8df: 22 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@87f501f: 24 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@458031da: 17 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@289f15e9: 17 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@7f22687e: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 33 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--809349402/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@26679788: 31 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@4805069b: 82 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@54ca9420: 15 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1b6cad77: 20 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4e26987b: 29 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@66944c7c: 19 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@14993306: 1 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 38 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--800375416/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@bd1111a: 24 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@730e5763: 105 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@5f780a86: 22 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@41fed14f: 25 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@39008c9f: 23 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@173f73e7: 22 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@43a51d00: 1 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2bd2430f: 39 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@c87787d: 103 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@4f2544b0: 32 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@6ef4297d: 22 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2986427e: 17 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1939a394: 17 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@e2c627e: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 32 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--86531578/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1431267b: 34 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3b95d13c: 78 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ad69f7: 21 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1128620c: 59 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42210be1: 13 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f966719: 29 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@18ac53e8: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 33 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--1391715862/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1431267b: 27 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3b95d13c: 99 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ad69f7: 30 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1128620c: 17 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42210be1: 10 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f966719: 13 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@18ac53e8: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 6 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 30 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--1011155993/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@53ac845a: 28 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@76c548f: 96 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@1d61c6dc: 21 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@3cae7b8b: 22 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6401d0a0: 12 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@11e33bac: 10 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@30501e60: 1 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 40 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-619808274/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@971e903: 44 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@2c43eb8: 143 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@327c7bea: 22 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@8d7b252: 31 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3d98d138: 8 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1f51431: 11 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@26a2f7f9: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 4 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 30 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse-1975151204/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms. 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1431267b: 35 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@3b95d13c: 121 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ad69f7: 27 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@1128620c: 27 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42210be1: 16 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f966719: 22 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@18ac53e8: 0 ms 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 6 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 81 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--1386438160/testng-customsuite.xml
+ 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 47 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 3 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 92 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+ [INFO] [Utils] [info] [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+ [INFO] [Utils] [info] [TestNG] Running:
+  /private/var/folders/f7/9h29l_g94nz_n8c9y_1nbwdh0000gn/T/testng-eclipse--1299268726/testng-customsuite.xml
+ 
+ [INFO] [BaseTest] [setupDriver1]  safari open  
+ [INFO] [BaseTest] [beforeMethodMethod] window maximise 
+ [INFO] [Utils] [info] [Utils] DynamicGraphHelper.createDynamicGraph() took 23 ms. 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7207cb51: 45 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@629ae7e: 86 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@29a69a35: 21 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@314ed053: 19 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@234a8f27: 12 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7772054c: 14 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@2f61f937: 0 ms 
+ [INFO] [LoginPages] [adminLogin] navigated to dashboard http://staging.s9trucks.com/admin/dashboard 
+ [INFO] [DashboardPages] [selectTruck] navigated to trucks page http://staging.s9trucks.com/admin/trucks 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6d5037a9: 21 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.jq.Main@41bf79da: 59 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.FailedReporter@1a891add: 3 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.XMLReporter@4aaae508: 15 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1aac188d: 7 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4fad6218: 6 ms 
+ [INFO] [Utils] [info] [TestNG] Time taken by org.testng.internal.ExitCodeListener@1bf39d06: 0 ms 
+ 
